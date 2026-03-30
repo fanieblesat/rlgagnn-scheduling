@@ -1,0 +1,13 @@
+# Core dependencies
+numpy>=1.24.0
+scipy>=1.10.0
+torch>=2.0.0
+
+# Optional: for GPU-accelerated GNN (not required - plain PyTorch is used)
+# torch-geometric>=2.3.0
+
+# Visualization (for plotting results)
+matplotlib>=3.7.0
+
+# Data handling
+pandas>=2.0.0

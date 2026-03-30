@@ -1,0 +1,26 @@
+{
+  "total_instances": 90,
+  "categories": {
+    "small": 30,
+    "medium": 30,
+    "large": 30
+  },
+  "failure_rate_default": 0.05,
+  "repair_rate_default": 0.2,
+  "due_date_tightness_values": [
+    0.5,
+    1.0,
+    1.5
+  ],
+  "failure_rate_regimes": {
+    "low": 0.01,
+    "medium": 0.05,
+    "high": 0.1
+  },
+  "weibull_shapes_tested": [
+    1.0,
+    1.5,
+    2.0,
+    3.0
+  ]
+}
